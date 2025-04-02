@@ -45,8 +45,8 @@ To use the Coin Flip component, simply insert the <coin-flip> tag in your HTML f
 In this example, the default behavior is used. The coin will flip and show either "Heads" or "Tails" when clicked.
 
 ### Full Example Usage:
-
-`<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -59,8 +59,8 @@ In this example, the default behavior is used. The coin will flip and show eithe
   <h1>Flip a Coin!</h1>
   <coin-flip></coin-flip>
 </body>
-</html>`
-
+</html>
+```
 In this example:
 
 coin-flip.js contains the JavaScript logic for the coin flip functionality.
