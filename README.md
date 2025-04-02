@@ -38,17 +38,15 @@ The CoinFlip component is implemented in JavaScript as a custom HTML element (<c
 ## Usage
 To use the Coin Flip component, simply insert the <coin-flip> tag in your HTML file where you want the coin flip to appear. The component is fully functional with default behavior. Optionally, you can customize the styles via styles.css.
 
-Example 1:
+### Example 1:
 
 `<coin-flip></coin-flip>`
 
 In this example, the default behavior is used. The coin will flip and show either "Heads" or "Tails" when clicked.
 
-Full Example Usage:
-html
-Copy
-Edit
-<!DOCTYPE html>
+### Full Example Usage:
+
+`<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -61,7 +59,8 @@ Edit
   <h1>Flip a Coin!</h1>
   <coin-flip></coin-flip>
 </body>
-</html>
+</html>`
+
 In this example:
 
 coin-flip.js contains the JavaScript logic for the coin flip functionality.
