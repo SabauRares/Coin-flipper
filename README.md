@@ -1,4 +1,4 @@
-#Coin Flip Web Component
+# Coin Flip Web Component
 
 ![image](https://github.com/user-attachments/assets/e49d11e9-de6e-4ba0-a7a1-7f57ceefe0fe)
 
