@@ -4,7 +4,7 @@
 
 
 ## Introduction
-Welcome to the Coin Flip Web Component! This component is a reusable custom element that simulates a coin flip. With a click of a button, users can experience a realistic 3D coin flip animation and see the result, either "Heads" or "Tails". The component is lightweight, easy to integrate, and visually appealing.
+Welcome to the Coin Flip Web Component! This component is a reusable custom element that simulates a coin flip. With a click of a button, users can experience a  coin flip animation and see the result, either "Heads" or "Tails". The component is lightweight, easy to integrate, and visually appealing.
 
 ## Key Features
 Interactive Coin Flip: Simulate flipping a coin with a smooth animation.
